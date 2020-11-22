@@ -32,7 +32,7 @@
             - LSTMによる精度評価
     - 開発環境
         - Jupyter Notebook
-        - R
+        - R言語
     - 英語
         - 文献調査
         - 要旨作成
