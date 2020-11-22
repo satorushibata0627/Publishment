@@ -41,3 +41,10 @@
     - 付属資料
         - 開発上の出力結果.pdf
         - 発表資料
+1. 上智大学大学院における成果物
+    - 成績証明書
+        - 修了証明書
+        - GPA3.74
+    - 英語プレゼンテーション資料.pdf
+        - EV(Electric Vehicle) / 電気自動車
+        - Geothermal Electricity / 地熱発電事業
