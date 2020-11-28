@@ -2,6 +2,7 @@
 ## 著者
 1. 氏名: 柴田 怜/Satoru Shibata
 1. 職業: Data Scientist
+1. 所属: [株式会社EDIX](https://www.edixweb.jp/)
 1. 開発技術
 	- 科学計算向け言語
 		- R
@@ -40,7 +41,8 @@
 	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
 	- 気候変動対策
 1. E-mail
-	- satorushibatad4dr@gmail.com
+	- [会社宛](s.shibata@edixweb.jp)
+	- [個人用](satorushibatad4dr@gmail.com)
 ## 目的
 1. 発表論文・AI等を保存・公開する。
 	- 『エネルギー改革策が及ぼした環境・経済・社会的影響: 日独英仏国の実証分析と国際比較』
@@ -125,7 +127,7 @@
 	- 統計理論を説明した後、開発演習の課題を出し、その解答例を併せてアップロードした。
 	- 教育資料である。
 1. 統計データ分析士2級の資格認定証
-	- 統計理論の受講した後、Rによる開発演習を学んだ。
+	- 統計理論の受講した後、Rによる実装を学んだ。
 	- 対象
 		- 数学(確率・統計)
 		- 統計的有意差検定
