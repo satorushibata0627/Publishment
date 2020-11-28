@@ -1,11 +1,7 @@
 # My_published_papers
 ## 著者
-1. 氏名
-	- 柴田 怜
-	- Satoru Shibata
-1. 職業
-	- データサイエンティスト
-	- Data Scientist
+1. 氏名: 柴田 怜/Satoru Shibata
+1. 職業: データサイエンティスト/Data Scientist
 1. 開発
 	- 言語
 		- R
@@ -35,7 +31,7 @@
 1. キーワード
 	- ESG(Environmental, Social, and, Corporate Governance)投資
 	- 2050年問題
-	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and Macro impact)
+	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro impact)
 	- 気候変動対策
 1. 英語
 	- 読解・論述(論文レベル)
@@ -73,8 +69,8 @@
             - 幾何ブラウン運動と確率偏微分方程式
             - LSTMによる精度評価
     - 開発環境
+    	- R
         - Jupyter Notebook
-        - R言語
     - 英語
         - 文献調査
         - 要旨作成
