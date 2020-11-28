@@ -1,7 +1,7 @@
 # My_published_papers
 ## 著者
-1. 氏名: 柴田 怜/Satoru Shibata
-1. 職業: データサイエンティスト/Data Scientist
+1. 氏名: 柴田 怜
+1. 職業: Data Scientist
 1. 開発技術
 	- 科学計算向け言語
 		- R
@@ -29,7 +29,7 @@
 		- 統計的因果推定
 		- 確率(偏)微分方程式
 		- ベイズ推定
-1. キーワード
+1. キーワード(環境経済学)
 	- ESG(Environmental, Social, and, Corporate Governance)投資
 	- 2050年問題
 	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro impact)
@@ -39,6 +39,8 @@
 	- 会話(プレゼンテーション経験あり)
 1. 学位
 	- 上智大学大学院修士号(環境学)
+1. E-mail
+	- satorushibatad4dr@gmail.com
 ## 目的
 1. 発表論文・AI等を保存・公開する。
 	- 『エネルギー改革策が及ぼした環境・経済・社会的影響: 日独英仏国の実証分析と国際比較』
@@ -93,17 +95,17 @@
 		- 前処理
 		- 探索的データ解析
 		- LightGBM
-			- モデル設計
+			- モデル設計・実装
 			- ハイパーパラメータのチューニング
 		- AutoML
 			- Deep Learning
 			- 勾配ブースティング
 			- 一般化線形モデル
 1. 補足
-    - 成績証明書.pdf
+    - 成績証明書
         - 修了証明
         - GPA3.74
         - 学位論文の評価: B
-    - 英語プレゼンテーション資料.pdf
+    - 英語プレゼンテーション資料
         - EV(Electric Vehicle) / 電気自動車
         - Geothermal Electricity / 地熱発電事業
