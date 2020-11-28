@@ -37,7 +37,7 @@
 1. 研究キーワード(環境経済学)
 	- ESG(Environmental, Social, and, Corporate Governance)投資
 	- 2050年問題
-	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro impact)
+	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
 	- 気候変動対策
 1. E-mail
 	- satorushibatad4dr@gmail.com
@@ -46,10 +46,10 @@
 	- 『エネルギー改革策が及ぼした環境・経済・社会的影響: 日独英仏国の実証分析と国際比較』
 	- 『エネルギー・気候変動と日本経済における2050年問題に向けた動的マクロ計量モデルに基づくESG投資の利用: 非線形パネルVAR-SPDE-LSTMモデル(精度評価付き)の開発』
 	- "LGBM_on_Lyft_Tabular_Data_Inference[Tuning]"
-	- "COVID-19_with_H2OAutoML_Baseline"
+	- "COVID-19_with_H2OAutoML[Baseline]"
 1. 学位証明
 	- 上智大学大学院修士号(環境学)
-## 保存ファイル
+## 保存ファイルとその概要
 1. 学位論文
     - 『エネルギー改革策が及ぼした環境・経済・社会的影響: 日独英仏国の実証分析と国際比較』
     - 分析手法
@@ -83,8 +83,8 @@
         - 文献調査
         - 要旨作成
     - 根拠資料
-        - 開発上の出力結果.pdf
-        - 発表資料.pdf
+        - 開発上の出力結果
+        - 発表資料
      - 参考
         - 論文原稿(付属資料)に数式レベルの詳細説明あり。
         - 開発上、要約統計量やグラフ描画による目視確認は、適時行った。
