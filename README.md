@@ -49,6 +49,9 @@
 	- "COVID-19_with_H2OAutoML[Baseline]"
 1. 学位証明
 	- 上智大学大学院修士号(環境学)
+	- 修了証明
+	- GPA3.74
+	- 学位論文の評価: B
 ## 保存ファイルの要旨
 1. 学位論文
     - 『エネルギー改革策が及ぼした環境・経済・社会的影響: 日独英仏国の実証分析と国際比較』
@@ -102,11 +105,30 @@
 			- Deep Learning
 			- 勾配ブースティング
 			- 一般化線形モデル
-1. 補足
-    - 成績証明書
-        - 修了証明
-        - GPA3.74
-        - 学位論文の評価: B
-    - 英語プレゼンテーション資料
-        - EV(Electric Vehicle) / 電気自動車
-        - Geothermal Electricity / 地熱発電事業
+## Kaggleの成績表
+| Competitions                                              | Top | Teams    |
+|:---------------------------------------------------------:|:---:|:--------:|
+| Predicting Molecular Properties                           | 21% | 553/2749 |
+| ALASKA2 Image Steganalysis                                | 25% | 272/1095 |
+| M5 Forecasting - Uncertainty                              | 26% | 237/912  |
+| TReNDS Neuroimaging                                       | 32% | 336/1051 |
+| OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction | 33% | 532/1636 |
+| Lyft Motion Prediction for Autonomous Vehicles            | Notebooks(銅メダル受賞) |
+
+
+## 参考
+1. 英語プレゼンテーション資料
+	- 概念を説明した後、具体的な環境影響及びその対応策並びに事業採算性(投資収益性)に関する提案を行った。
+		- EV(Electric Vehicle) / 電気自動車
+		- Geothermal Electricity / 地熱発電事業
+1. 線形単回帰分析の開発演習(R/Python3)
+	- 統計理論を説明した後、開発演習の課題を出し、その解答例を併せてアップロードした。
+	- 教育資料である。
+1. 統計データ分析士2級の資格認定証
+	- 統計理論の受講した後、Rによる開発演習を学んだ。
+	- 対象
+		- 数学(確率・統計)
+		- 統計的有意差検定
+		- 相関と回帰
+		- 多変量解析
+		- パネルデータ分析
