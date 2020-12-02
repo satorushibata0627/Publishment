@@ -77,7 +77,7 @@
 	- [会社宛](s.shibata@edixweb.jp)
 	- [個人用](satorushibatad4dr@gmail.com)
 ## 目的
-1. 発表論文・AI開発等を保存・公開する。
+1. 発表論文・AI開発等に用いた各ファイルを保存・公開し、その要旨を説明する。
 	- [『エネルギー・気候変動と日本経済における2050年問題に向けた動的マクロ計量モデルに基づくESG投資の利用: 非線形パネルVAR-SPDE-LSTMモデル(精度評価付き)の開発』](https://github.com/satorushibata0627/Publishment/raw/main/%E8%AB%96%E6%96%87%E5%8E%9F%E7%A8%BF_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.pdf)
 	- [『エネルギー改革策が及ぼした環境・経済・社会的影響: 日独英仏国の実証分析と国際比較』](https://github.com/satorushibata0627/Publishment/raw/main/%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	- ["LGBM on Lyft Tabular Data Inference[Tuning]"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
