@@ -151,7 +151,7 @@
 				- 一般化線形モデル
 		1. 最適予測モデルの形成
 		1. 交差検証法及びブートストラップ法による実証分析
-		1. 予測結果.csvを提出し、AI判定を受ける。
+		1. パターン認識の予測結果.csvを提出し、AI判定を受ける。
 ## [Kaggleの成績表](https://www.kaggle.com/satorushibata)
 | Competitions                                              | Top | Teams    |
 |:---------------------------------------------------------:|:---:|:--------:|
@@ -179,3 +179,14 @@
 		1. 多変量解析
 		1. パネルデータ分析
 	- 主催: [『統計科学研究所』](https://statistics.co.jp/)
+## 資料集
+1. 開発
+	- [RDocumentation](https://www.rdocumentation.org/)
+	- [Python公式ドキュメント](https://docs.python.org/ja/3/)
+	- [逆引きGit](https://backlog.com/ja/git-tutorial/reference/)
+	- [Stack Overflow](https://stackoverflow.com/)
+1. 最新情報
+	- [AINOW](https://ainow.ai/)
+	- [コンサル業界ニュース](https://consulnews.jp/)
+	- [ロイター](https://jp.reuters.com/)
+	- [環境ビジネスオンライン](https://www.kankyo-business.jp/)
