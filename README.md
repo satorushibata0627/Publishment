@@ -67,8 +67,11 @@
 1. 英語
 	- 読解・論述(論文レベル)
 	- 会話([EV](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_1_Electric_Vehicle.pdf)及び[Geothermal Electricity](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_2_Geothermal_Electricity.pdf)に関するプレゼンテーション経験あり。)
-1. 学位
+1. 学位・称号・資格
 	- [上智大学大学院修士号(環境学)](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
+	- Kaggle Contributor
+	- 統計データ分析士2級
+	- RPA Developer Foundation
 1. 研究キーワード:
 	- ESG(Environmental, Social, and, Corporate Governance)投資
 	- 2050年問題
@@ -152,7 +155,7 @@
 		1. 最適予測モデルの形成
 		1. 交差検証法及びブートストラップ法による実証分析
 		1. パターン認識の予測結果.csvを提出し、AI判定を受ける。
-## [Kaggleの成績表](https://www.kaggle.com/satorushibata)
+## [Kaggleの成績表(要旨)](https://www.kaggle.com/satorushibata)
 | Competitions                                              | Top | Teams    |
 |:---------------------------------------------------------:|:---:|:--------:|
 | Predicting Molecular Properties                           | 21% | 553/2749 |
