@@ -106,7 +106,7 @@
         1. 非線形パネルVAR-SPDE-LSTMモデル(精度評価付き)
             1. パネルVARモデル
             1. 幾何ブラウン運動と確率偏微分方程式
-            1. LSTM(Long Short Term Model)及びその交差検証法による精度評価
+            1. LSTM(Long Short Term Memory)及びその交差検証法による精度評価
         1. 結果のグラフ描画・出力
     	1. 確率過程の予測結果.csvを出力する。
     - [開発環境](https://github.com/satorushibata0627/Publishment/blob/main/%E9%96%8B%E7%99%BA%E8%B3%87%E6%96%99_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.ipynb)
