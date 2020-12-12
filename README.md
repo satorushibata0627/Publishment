@@ -85,6 +85,7 @@
 	1. AI開発
 		- ["LGBM on Lyft Tabular Data Inference[Tuning]"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
 		- ["Market Prediction: XGBoost with GPU Modified"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Market_Prediction_XGBoost_with_GPU_Modified.ipynb)
+		- ["RFCX: Residual Network with TPU Customized"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_RFCX_Residual_Network_with_TPU_Customized.ipynb)
 		- ["COVID-19 with H2OAutoML[Baseline]"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_COVID-19_with_H2OAutoML_Baseline.ipynb)
 		- [『H2OAutoMLによる自動最適化モデル』](https://github.com/satorushibata0627/Publishment/blob/main/20200831_Python3_SIGNATE_%E7%AC%AC1%E5%9B%9E_Beginner%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%B3%E3%83%9A_%E9%8A%80%E8%A1%8C%E3%81%AE%E9%A1%A7%E5%AE%A2%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0_H2OAutoML%E3%81%AB%E3%82%88%E3%82%8B%E8%87%AA%E5%8B%95%E6%9C%80%E9%81%A9%E5%8C%96%E3%83%A2%E3%83%87%E3%83%AB.ipynb)
 1. [学位証明](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
