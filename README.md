@@ -84,6 +84,7 @@
 		- [『エネルギー改革策が及ぼした環境・経済・社会的影響: 日独英仏国の実証分析と国際比較』](https://github.com/satorushibata0627/Publishment/raw/main/%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	1. AI開発
 		- ["LGBM on Lyft Tabular Data Inference[Tuning]"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
+		- ["LGBM with Loop Feature Engineering Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_LGBM_with_Loop_Feature_Engineering_Tuning.ipynb)
 		- ["Market Prediction: XGBoost with GPU Modified"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Market_Prediction_XGBoost_with_GPU_Modified.ipynb)
 		- ["RFCX: Residual Network with TPU Customized"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_RFCX_Residual_Network_with_TPU_Customized.ipynb)
 		- ["COVID-19 with H2OAutoML[Baseline]"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_COVID-19_with_H2OAutoML_Baseline.ipynb)
