@@ -1,4 +1,4 @@
-# Publishment
+# Publishment / 出版物
 ## 著者
 1. 氏名: 柴田 怜/Satoru Shibata
 1. 職業: Data Scientist
@@ -86,6 +86,7 @@
 		- ["LGBM on Lyft Tabular Data Inference[Tuning]"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
 		- ["LGBM with Loop Feature Engineering Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_LGBM_with_Loop_Feature_Engineering_Tuning.ipynb)
 		- ["Market Prediction: XGBoost with GPU Modified"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Market_Prediction_XGBoost_with_GPU_Modified.ipynb)
+		- ["Cassava Leaf Disease: Best Keras CNN Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Cassava_Leaf_Disease_Best_Keras_CNN_Tuning.ipynb)
 		- ["RFCX: Residual Network with TPU Customized"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_RFCX_Residual_Network_with_TPU_Customized.ipynb)
 		- ["COVID-19 with H2OAutoML[Baseline]"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_COVID-19_with_H2OAutoML_Baseline.ipynb)
 		- [『H2OAutoMLによる自動最適化モデル』](https://github.com/satorushibata0627/Publishment/blob/main/20200831_Python3_SIGNATE_%E7%AC%AC1%E5%9B%9E_Beginner%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%B3%E3%83%9A_%E9%8A%80%E8%A1%8C%E3%81%AE%E9%A1%A7%E5%AE%A2%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0_H2OAutoML%E3%81%AB%E3%82%88%E3%82%8B%E8%87%AA%E5%8B%95%E6%9C%80%E9%81%A9%E5%8C%96%E3%83%A2%E3%83%87%E3%83%AB.ipynb)
