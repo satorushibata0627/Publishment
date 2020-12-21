@@ -170,6 +170,7 @@
 | TReNDS Neuroimaging                                       | 32% | 336/1051 |
 | OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction | 33% | 532/1636 |
 | Lyft Motion Prediction for Autonomous Vehicles            | Notebooks(銅メダル受賞) |
+| Riiid! Answer Correctness Prediction                      | Notebooks(銅メダル受賞) |
 ## 参考
 1. 英語プレゼンテーション資料
 	- 概念を説明した後、その環境影響、対応策及び事業採算性(投資収益性)に関する提案を行った。
