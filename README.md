@@ -2,7 +2,7 @@
 ## 著者
 1. 氏名: 柴田 怜/Satoru Shibata
 1. 職業: Data Scientist
-1. 称号: Kaggle Expert
+1. 称号: [Kaggle Expert](https://www.kaggle.com/satorushibata)
 1. 所属: [株式会社EDIX](https://www.edixweb.jp/)
 1. 開発技術
 	- 科学計算向け言語
@@ -170,8 +170,9 @@
 | M5 Forecasting - Uncertainty                              | 26% | 237/912  |
 | TReNDS Neuroimaging                                       | 32% | 336/1051 |
 | OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction | 33% | 532/1636 |
-| Lyft Motion Prediction for Autonomous Vehicles            | Notebooks(銅メダル受賞) |
-| Riiid! Answer Correctness Prediction                      | Notebooks(銅メダル受賞) |
+| Lyft Motion Prediction for Autonomous Vehicles            | 銅メダル(Notebooks)受賞 |
+| Riiid! Answer Correctness Prediction                      | 銅メダル(Notebooks)3個受賞 |
+| Jane Street Market Prediction                             | 銅メダル(Notebooks)受賞 |
 ## 参考
 1. 英語プレゼンテーション資料
 	- 概念を説明した後、その環境影響、対応策及び事業採算性(投資収益性)に関する提案を行った。
