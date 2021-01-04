@@ -3,11 +3,12 @@
 1. 氏名: 柴田 怜/Satoru Shibata
 1. 職業: Data Scientist
 1. 称号: [Kaggle Notebooks Expert](https://www.kaggle.com/satorushibata)
+1. Kaggle Notebooks: [世界ランク731位(153203組中 = 上位0.477%)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
 1. 所属: [株式会社EDIX](https://www.edixweb.jp/)
 1. 開発技術
 	- 科学計算向け言語
 		- Python3
-		
+		- R
 	- IDE(Integrated Development Environment)
 		- Jupyter Notebook
 		- RStudio
@@ -83,7 +84,12 @@
 ## 目的
 1. AI開発・発表論文等に用いた各ファイルを保存・公開し、その要旨を説明する。
 	1. AI開発
-		- ["LightGBM on Lyft Tabular Data Inference[Tuning]"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
+		- ["LightGBM Classifier & Logistic Regression + Report"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Silver_Medal_LightGBM_Classifier_and_Logistic_Regression_Report.ipynb)
+		- ["Optimized LightGBM with Optuna adding SAKT Model"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
+		- ["LightGBM with the Inference & Empirical Analysis"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_with_the_Inference_and_Empirical_Analysis.ipynb)
+		- ["Optimized LightGBM with Optuna"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna.ipynb)
+		- ["Optimize LightGBM HyperParameter with Optuna & GPU"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimize_LightGBM_HyperParameter_with_Optuna_and_GPU.ipynb)
+		- ["LightGBM on Lyft Tabular Data Inference with Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
 		- ["LightGBM on GPU with Feature Engineering, Optuna, and , Visualization"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
 		- ["Market Prediction: XGBoost with GPU Modified"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Market_Prediction_XGBoost_with_GPU_Modified.ipynb)
 		- ["Cassava Leaf Disease: Best Keras CNN Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Cassava_Leaf_Disease_Best_Keras_CNN_Tuning.ipynb)
