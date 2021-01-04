@@ -6,8 +6,8 @@
 1. 所属: [株式会社EDIX](https://www.edixweb.jp/)
 1. 開発技術
 	- 科学計算向け言語
-		- R
 		- Python3
+		
 	- IDE(Integrated Development Environment)
 		- Jupyter Notebook
 		- RStudio
@@ -81,25 +81,35 @@
 	- [会社宛](s.shibata@edixweb.jp)
 	- [個人用](satorushibatad4dr@gmail.com)
 ## 目的
-1. 技術論文・AI開発等に用いた各ファイルを保存・公開し、その要旨を説明する。
-	1. 技術論文
-		- [『エネルギー・気候変動と日本経済における2050年問題に向けた動的マクロ計量モデルに基づくESG投資の利用: 非線形パネルVAR-SPDE-LSTMモデル(精度評価付き)の開発』](https://github.com/satorushibata0627/Publishment/raw/main/%E8%AB%96%E6%96%87%E5%8E%9F%E7%A8%BF_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.pdf)
-		- [『エネルギー改革策が及ぼした環境・経済・社会的影響: 日独英仏国の実証分析と国際比較』](https://github.com/satorushibata0627/Publishment/raw/main/%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
+1. AI開発・発表論文等に用いた各ファイルを保存・公開し、その要旨を説明する。
 	1. AI開発
 		- ["LightGBM on Lyft Tabular Data Inference[Tuning]"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
 		- ["LightGBM on GPU with Feature Engineering, Optuna, and , Visualization"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
-			- 提出用: ["LightGBM with the Inference & Empirical analysis"
-](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Submission_and_the_Inference_of_LightGBM.ipynb)
 		- ["Market Prediction: XGBoost with GPU Modified"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Market_Prediction_XGBoost_with_GPU_Modified.ipynb)
 		- ["Cassava Leaf Disease: Best Keras CNN Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Cassava_Leaf_Disease_Best_Keras_CNN_Tuning.ipynb)
 		- ["RFCX: Residual Network with TPU Customized"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_RFCX_Residual_Network_with_TPU_Customized.ipynb)
 		- ["COVID-19 with H2OAutoML[Baseline]"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_COVID-19_with_H2OAutoML_Baseline.ipynb)
 		- [『H2OAutoMLによる自動最適化モデル』](https://github.com/satorushibata0627/Publishment/blob/main/20200831_Python3_SIGNATE_%E7%AC%AC1%E5%9B%9E_Beginner%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%B3%E3%83%9A_%E9%8A%80%E8%A1%8C%E3%81%AE%E9%A1%A7%E5%AE%A2%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0_H2OAutoML%E3%81%AB%E3%82%88%E3%82%8B%E8%87%AA%E5%8B%95%E6%9C%80%E9%81%A9%E5%8C%96%E3%83%A2%E3%83%87%E3%83%AB.ipynb)
+	1. 発表論文
+		- [『エネルギー・気候変動と日本経済における2050年問題に向けた動的マクロ計量モデルに基づくESG投資の利用: 非線形パネルVAR-SPDE-LSTMモデル(精度評価付き)の開発』](https://github.com/satorushibata0627/Publishment/raw/main/%E8%AB%96%E6%96%87%E5%8E%9F%E7%A8%BF_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.pdf)
+		- [『エネルギー改革策が及ぼした環境・経済・社会的影響: 日独英仏国の実証分析と国際比較』](https://github.com/satorushibata0627/Publishment/raw/main/%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)	
 1. [学位証明](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	- 上智大学大学院修士号(環境学)
 	- 修了証明
 	- GPA3.74
 	- 学位論文の評価: B
+## [Kaggleの成績表(要旨)](https://www.kaggle.com/satorushibata)
+| Competitions                                              | Top | Teams    |
+|:---------------------------------------------------------:|:---:|:--------:|
+| [Predicting Molecular Properties](https://www.kaggle.com/c/champs-scalar-coupling)                           | 21% | 553/2749 |
+| [ALASKA2 Image Steganalysis](https://www.kaggle.com/c/alaska2-image-steganalysis)                                | 25% | 272/1095 |
+| [M5 Forecasting - Uncertainty](https://www.kaggle.com/c/m5-forecasting-uncertainty)                              | 26% | 237/912  |
+| [TReNDS Neuroimaging](https://www.kaggle.com/c/trends-assessment-prediction)                                       | 32% | 336/1051 |
+| [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine) | 33% | 532/1636 |
+| [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)            | 銅メダル受賞(Notebooks) |
+| [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction)                      | 銅メダル受賞(Notebooks) |
+| [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction)                            | 銀メダル1個 + 銅メダル3個受賞(Notebooks) |
+| [Discussion 銅メダル8個受賞](https://www.kaggle.com/satorushibata/discussion)
 ## 各ファイルの要旨
 1. 公益財団法人みずほ学術振興財団第61回懸賞論文【経済の部】「ESG投資について考える」
     - [『エネルギー・気候変動と日本経済における2050年問題に向けた動的マクロ計量モデルに基づくESG投資の利用: 非線形パネルVAR-SPDE-LSTMモデル(精度評価付き)の開発』](https://github.com/satorushibata0627/Publishment/raw/main/%E8%AB%96%E6%96%87%E5%8E%9F%E7%A8%BF_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.pdf)
@@ -162,17 +172,6 @@
 				- 一般化線形モデル
 		1. 最適予測モデルの形成
 		1. パターン認識の予測結果.csvを提出し、AI判定を受ける。
-## [Kaggleの成績表(要旨)](https://www.kaggle.com/satorushibata)
-| Competitions                                              | Top | Teams    |
-|:---------------------------------------------------------:|:---:|:--------:|
-| Predicting Molecular Properties                           | 21% | 553/2749 |
-| ALASKA2 Image Steganalysis                                | 25% | 272/1095 |
-| M5 Forecasting - Uncertainty                              | 26% | 237/912  |
-| TReNDS Neuroimaging                                       | 32% | 336/1051 |
-| OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction | 33% | 532/1636 |
-| Lyft Motion Prediction for Autonomous Vehicles            | 銅メダル(Notebooks)受賞 |
-| Riiid! Answer Correctness Prediction                      | 銅メダル(Notebooks)3個受賞 |
-| Jane Street Market Prediction                             | 銅メダル(Notebooks)受賞 |
 ## 参考
 1. 英語プレゼンテーション資料
 	- 概念を説明した後、その環境影響、対応策及び事業採算性(投資収益性)に関する提案を行った。
