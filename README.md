@@ -2,7 +2,7 @@
 ## 著者
 1. 氏名: 柴田 怜/Satoru Shibata
 1. 職業: Data Scientist
-1. 称号: [Kaggle Expert](https://www.kaggle.com/satorushibata)
+1. 称号: [Kaggle Notebooks Expert](https://www.kaggle.com/satorushibata)
 1. 所属: [株式会社EDIX](https://www.edixweb.jp/)
 1. 開発技術
 	- 科学計算向け言語
