@@ -1,6 +1,6 @@
 # Publishment / 出版物
 ## 著者
-1. 氏名: 柴田 怜/Satoru Shibata
+1. 氏名: [柴田 怜/Satoru Shibata](https://www.facebook.com/profile.php?id=100014771435123)
 1. 職業: Data Scientist
 1. 称号: [Kaggle Notebooks Expert](https://www.kaggle.com/satorushibata)
 	- [Kaggle Notebooks: 銀メダル1個 + 銅メダル5個受賞](https://www.kaggle.com/satorushibata/notebooks)
