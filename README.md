@@ -3,7 +3,8 @@
 1. 氏名: 柴田 怜/Satoru Shibata
 1. 職業: Data Scientist
 1. 称号: [Kaggle Notebooks Expert](https://www.kaggle.com/satorushibata)
-1. Kaggle Notebooksの世界ランク: [自己ベスト上位0.467%(153203組中715位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
+	- 受賞: 銀メダル1個 + 銅メダル5個
+	- Kaggle Notebooksの世界ランク: [自己ベスト上位0.467%(153203組中715位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
 1. 所属: [株式会社EDIX](https://www.edixweb.jp/)
 1. 開発技術
 	- 科学計算向け言語
@@ -68,6 +69,10 @@
 			- 判別分析
 			- クラスター分析
 		- ベイズ推定
+	- 数理最適化
+		- 線形/非線形計画法
+		- ゲーム理論
+		- ベイズ最適化
 1. 英語
 	- 読解・論述(論文レベル)
 	- 会話([EV](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_1_Electric_Vehicle.pdf)及び[Geothermal Electricity](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_2_Geothermal_Electricity.pdf)に関するプレゼンテーション経験あり。)
@@ -116,7 +121,7 @@
 | [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction)                      | 銅メダル受賞(Notebooks) |
 | [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction)                            | 銀メダル1個 + 銅メダル3個受賞(Notebooks) |
 | [Discussion 銅メダル8個受賞](https://www.kaggle.com/satorushibata/discussion)
-## 各ファイルの要旨
+## 論文要旨
 1. 公益財団法人みずほ学術振興財団第61回懸賞論文【経済の部】「ESG投資について考える」
     - [『エネルギー・気候変動と日本経済における2050年問題に向けた動的マクロ計量モデルに基づくESG投資の利用: 非線形パネルVAR-SPDE-LSTMモデル(精度評価付き)の開発』](https://github.com/satorushibata0627/Publishment/raw/main/%E8%AB%96%E6%96%87%E5%8E%9F%E7%A8%BF_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.pdf)
     - 分析手順
@@ -159,25 +164,6 @@
     - 英語
         - 文献調査
         - 要旨作成
-1. [Kaggle](https://www.kaggle.com/)/[SIGNATE](https://signate.jp/)
-	- 開発環境
-		- Python3
-		- Jupyter Notebook
-	- 分析手順
-		1. ローデータの目視確認
-		1. 前処理
-		1. 探索的データ解析
-		1. パターン認識(分類/回帰/時系列)
-			- LightGBM
-				1. モデル設計・実装
-				1. ハイパーパラメータのチューニング
-			- AutoML
-				- Deep Learning
-				- XGboost
-				- 勾配ブースティング
-				- 一般化線形モデル
-		1. 最適予測モデルの形成
-		1. パターン認識の予測結果.csvを提出し、AI判定を受ける。
 ## 参考
 1. 英語プレゼンテーション資料
 	- 概念を説明した後、その環境影響、対応策及び事業採算性(投資収益性)に関する提案を行った。
@@ -196,14 +182,3 @@
 		1. 多変量解析
 		1. パネルデータ分析
 	- 主催: [『統計科学研究所』](https://statistics.co.jp/)
-## 資料集
-1. 開発
-	- [RDocumentation](https://www.rdocumentation.org/)
-	- [Python公式ドキュメント](https://docs.python.org/ja/3/)
-	- [逆引きGit](https://backlog.com/ja/git-tutorial/reference/)
-	- [Stack Overflow](https://stackoverflow.com/)
-1. 最新情報
-	- [AINOW](https://ainow.ai/)
-	- [コンサル業界ニュース](https://consulnews.jp/)
-	- [ロイター](https://jp.reuters.com/)
-	- [環境ビジネスオンライン](https://www.kankyo-business.jp/)
