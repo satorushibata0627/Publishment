@@ -7,13 +7,13 @@
 	- Kaggle Notebooksの世界ランク: [自己ベスト上位0.467%(153203組中715位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
 1. 所属: [株式会社EDIX](https://www.edixweb.jp/)
 1. 開発技術
-	- 科学計算向け言語
+	- 言語
 		- Python3
 		- R
 	- IDE(Integrated Development Environment)
 		- Jupyter Notebook
 		- RStudio
-	- DB(Database)
+	- DB
 		- MySQL
 		- RedshiftSQL
 		- BigQuery
@@ -86,24 +86,24 @@
 1. E-mail
 	- [会社宛](s.shibata@edixweb.jp)
 	- [個人用](satorushibatad4dr@gmail.com)
-## 目的
-1. AI開発・発表論文等に用いた各ファイルを保存・公開し、その要旨を説明する。
-	1. AI開発
-		- ["LightGBM Classifier & Logistic Regression + Report"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Silver_Medal_LightGBM_Classifier_and_Logistic_Regression_Report.ipynb)
-		- ["Optimized LightGBM with Optuna adding SAKT Model"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
-		- ["LightGBM with the Inference & Empirical Analysis"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_with_the_Inference_and_Empirical_Analysis.ipynb)
-		- ["Optimized LightGBM with Optuna"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna.ipynb)
-		- ["Optimize LightGBM HyperParameter with Optuna & GPU"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimize_LightGBM_HyperParameter_with_Optuna_and_GPU.ipynb)
-		- ["LightGBM on Lyft Tabular Data Inference with Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
-		- ["LightGBM on GPU with Feature Engineering, Optuna, and , Visualization"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
-		- ["Market Prediction: XGBoost with GPU Modified"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Market_Prediction_XGBoost_with_GPU_Modified.ipynb)
-		- ["Cassava Leaf Disease: Best Keras CNN Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Cassava_Leaf_Disease_Best_Keras_CNN_Tuning.ipynb)
-		- ["RFCX: Residual Network with TPU Customized"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_RFCX_Residual_Network_with_TPU_Customized.ipynb)
-		- ["COVID-19 with H2OAutoML[Baseline]"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_COVID-19_with_H2OAutoML_Baseline.ipynb)
-		- [『H2OAutoMLによる自動最適化モデル』](https://github.com/satorushibata0627/Publishment/blob/main/20200831_Python3_SIGNATE_%E7%AC%AC1%E5%9B%9E_Beginner%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%B3%E3%83%9A_%E9%8A%80%E8%A1%8C%E3%81%AE%E9%A1%A7%E5%AE%A2%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0_H2OAutoML%E3%81%AB%E3%82%88%E3%82%8B%E8%87%AA%E5%8B%95%E6%9C%80%E9%81%A9%E5%8C%96%E3%83%A2%E3%83%87%E3%83%AB.ipynb)
-	1. 発表論文
-		- [『エネルギー・気候変動と日本経済における2050年問題に向けた動的マクロ計量モデルに基づくESG投資の利用: 非線形パネルVAR-SPDE-LSTMモデル(精度評価付き)の開発』](https://github.com/satorushibata0627/Publishment/raw/main/%E8%AB%96%E6%96%87%E5%8E%9F%E7%A8%BF_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.pdf)
-		- [『エネルギー改革策が及ぼした環境・経済・社会的影響: 日独英仏国の実証分析と国際比較』](https://github.com/satorushibata0627/Publishment/raw/main/%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)	
+## 目的:
+### AI開発・発表論文等に用いた各ファイルを保存・公開し、その要旨を説明する。
+1. AI開発
+	- ["LightGBM Classifier & Logistic Regression + Report"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Silver_Medal_LightGBM_Classifier_and_Logistic_Regression_Report.ipynb)
+	- ["Optimized LightGBM with Optuna adding SAKT Model"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
+	- ["LightGBM with the Inference & Empirical Analysis"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_with_the_Inference_and_Empirical_Analysis.ipynb)
+	- ["Optimized LightGBM with Optuna"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna.ipynb)
+	- ["Optimize LightGBM HyperParameter with Optuna & GPU"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimize_LightGBM_HyperParameter_with_Optuna_and_GPU.ipynb)
+	- ["LightGBM on Lyft Tabular Data Inference with Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
+	- ["LightGBM on GPU with Feature Engineering, Optuna, and , Visualization"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
+	- ["Market Prediction: XGBoost with GPU Modified"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Market_Prediction_XGBoost_with_GPU_Modified.ipynb)
+	- ["Cassava Leaf Disease: Best Keras CNN Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Cassava_Leaf_Disease_Best_Keras_CNN_Tuning.ipynb)
+	- ["RFCX: Residual Network with TPU Customized"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_RFCX_Residual_Network_with_TPU_Customized.ipynb)
+	- ["COVID-19 with H2OAutoML[Baseline]"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_COVID-19_with_H2OAutoML_Baseline.ipynb)
+	- [『H2OAutoMLによる自動最適化モデル』](https://github.com/satorushibata0627/Publishment/blob/main/20200831_Python3_SIGNATE_%E7%AC%AC1%E5%9B%9E_Beginner%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%B3%E3%83%9A_%E9%8A%80%E8%A1%8C%E3%81%AE%E9%A1%A7%E5%AE%A2%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0_H2OAutoML%E3%81%AB%E3%82%88%E3%82%8B%E8%87%AA%E5%8B%95%E6%9C%80%E9%81%A9%E5%8C%96%E3%83%A2%E3%83%87%E3%83%AB.ipynb)
+1. 発表論文
+	- [『エネルギー・気候変動と日本経済における2050年問題に向けた動的マクロ計量モデルに基づくESG投資の利用: 非線形パネルVAR-SPDE-LSTMモデル(精度評価付き)の開発』](https://github.com/satorushibata0627/Publishment/raw/main/%E8%AB%96%E6%96%87%E5%8E%9F%E7%A8%BF_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.pdf)
+	- [『エネルギー改革策が及ぼした環境・経済・社会的影響: 日独英仏国の実証分析と国際比較』](https://github.com/satorushibata0627/Publishment/raw/main/%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)	
 1. [学位証明](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	- 上智大学大学院修士号(環境学)
 	- 修了証明
