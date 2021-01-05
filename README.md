@@ -3,89 +3,32 @@
 1. 氏名: 柴田 怜/Satoru Shibata
 1. 職業: Data Scientist
 1. 称号: [Kaggle Notebooks Expert](https://www.kaggle.com/satorushibata)
-	- 受賞: 銀メダル1個 + 銅メダル5個
-	- Kaggle Notebooksの世界ランク: [自己ベスト上位0.467%(153203組中715位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
+	- [Kaggle Notebooks: 銀メダル1個 + 銅メダル5個受賞](https://www.kaggle.com/satorushibata/notebooks)
+	- [Kaggle Notebooksの世界ランク: 自己ベスト上位0.467%(153203組中715位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
+	- [Kaggle Discussion: 銅メダル8個受賞](https://www.kaggle.com/satorushibata/discussion)
 1. 所属: [株式会社EDIX](https://www.edixweb.jp/)
-1. 開発技術
-	- 言語
-		- Python3
-		- R
-	- IDE(Integrated Development Environment)
-		- Jupyter Notebook
-		- RStudio
-	- DB
-		- MySQL
-		- RedshiftSQL
-		- BigQuery
-1. 統計理論
-	- 機械学習
-		- 次元圧縮
-			- k-means
-			- t-SNE
-			- 密度準拠クラスタリング
-			- 主成分分析
-		- 分類/回帰
-			- SVM(Support Vector Machine)
-			- ランダムフォレスト
-			- Deep Learning
-			- ノンパラメトリック・ベイズ
-		- 勾配ブースティング決定/回帰木
-			- LightGBM
-			- XGboost
-		- 実証分析
-			- ブートストラップ法
-			- 交差検証法
-		- 探索的データ解析
-			- 要約統計量
-			- グラフ描画
-			- 相関係数
-	- 統計解析
-		- 計量時系列分析
-			- ARIMAモデル
-			- (構造)VARモデル
-			- パネルVARモデル
-			- (多変量)状態空間モデル
-			- 共和分検定
-			- 単位根検定
-			- (多変量)確率ボラティリティ変動モデル
-			- 幾何ブラウン運動
-		- 統計的有意差検定
-			- t検定
-			- 分散分析
-			- カイ二乗検定
-			- 無相関検定
-			- 単位根検定
-			- 共和分検定
-		- 統計的因果推定
-			- グレンジャー因果性検定
-			- 差分の差分法
-			- 構造方程式モデリング
-			- Dynamic-SEM(Structural Equation Model)
-		- 多変量解析
-			- 因子分析
-			- 線形重回帰分析
-			- 一般化線形モデル
-			- パネルデータ分析
-			- 判別分析
-			- クラスター分析
-		- ベイズ推定
-	- 数理最適化
-		- 線形/非線形計画法
-		- ゲーム理論
-		- ベイズ最適化
-1. 英語
-	- 読解・論述(論文レベル)
-	- 会話([EV](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_1_Electric_Vehicle.pdf)及び[Geothermal Electricity](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_2_Geothermal_Electricity.pdf)に関するプレゼンテーション経験あり。)
-1. 学位
-	- [上智大学大学院修士号(環境学)](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
-1. 研究キーワード:
-	- ESG(Environmental, Social, and, Corporate Governance)投資
-	- 2050年問題
-	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
-	- 気候変動対策
-1. E-mail
-	- [会社宛](s.shibata@edixweb.jp)
-	- [個人用](satorushibatad4dr@gmail.com)
+### 統計理論
+| 機械学習                    | 統計解析          | 数理最適化         | 探索的データ解析 |
+|:--------------------------:|:------------------:|:-----------------:|:----------------:|
+| k-means                     | 計量時系列分析     | 線形/非線形計画法 | 相関係数
+| t-SNE                       | 統計モデル         | ゲーム理論        | 要約統計量
+| 密度準拠クラスタリング       | 統計的因果推定     | ベイズ最適化      | グラフ描画
+| 主成分分析                  | 統計的有意差検定
+| SVM(Support Vector Machine) | 多変量解析
+| ランダムフォレスト           | 確率(偏)微分方程式
+| Deep Learning
+| ノンパラメトリック・ベイズ
+| LightGBM
+| XGboost
+| CatBoost
+| ブートストラップ法
+| 交差検証法
+### 開発技術
+| 言語    | IDE               | DB         |
+|:-------:|:----------------:|:-----------:|
+| Python3 | Jupyter Notebook | MySQL       |
+| R       | RStudio          | RedshiftSQL |
+|         |                  | BigQuery    |
 ## 目的:
 ### AI開発・発表論文等に用いた各ファイルを保存・公開し、その要旨を説明する。
 1. AI開発
@@ -165,10 +108,20 @@
         - 文献調査
         - 要旨作成
 ## 参考
-1. 英語プレゼンテーション資料
-	- 概念を説明した後、その環境影響、対応策及び事業採算性(投資収益性)に関する提案を行った。
-		1. [EV(Electric Vehicle)](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_1_Electric_Vehicle.pdf) / 電気自動車
-		1. [Geothermal Electricity](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_2_Geothermal_Electricity.pdf) / 地熱発電事業
+1. 学位
+	- [上智大学大学院修士号(環境学)](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
+1. 研究キーワード:
+	- ESG(Environmental, Social, and, Corporate Governance)投資
+	- 2050年問題
+	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
+	- 気候変動対策
+1. 英語
+	- 読解・論述(論文レベル)
+	- 会話([EV](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_1_Electric_Vehicle.pdf)及び[Geothermal Electricity](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_2_Geothermal_Electricity.pdf)に関するプレゼンテーション経験あり。)
+		- 英語プレゼンテーション資料
+			- 概念を説明した後、その環境影響、対応策及び事業採算性(投資収益性)に関する提案を行った。
+				1. [EV(Electric Vehicle)](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_1_Electric_Vehicle.pdf) / 電気自動車
+				1. [Geothermal Electricity](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_2_Geothermal_Electricity.pdf) / 地熱発電事業
 1. 線形単回帰分析の開発演習([R](https://github.com/satorushibata0627/Publishment/blob/main/%E7%B7%9A%E5%BD%A2%E5%8D%98%E5%9B%9E%E5%B8%B0%E5%88%86%E6%9E%90%E3%81%AE%E9%96%8B%E7%99%BA%E6%BC%94%E7%BF%92(R).ipynb)/[Python3](https://github.com/satorushibata0627/Publishment/blob/main/%E7%B7%9A%E5%BD%A2%E5%8D%98%E5%9B%9E%E5%B8%B0%E5%88%86%E6%9E%90%E3%81%AE%E9%96%8B%E7%99%BA%E6%BC%94%E7%BF%92(Python3).ipynb))
 	- 統計理論を説明した後、開発演習の課題を出し、その解答例を併せてアップロードした。
 	- 教育資料である。
@@ -182,3 +135,6 @@
 		1. 多変量解析
 		1. パネルデータ分析
 	- 主催: [『統計科学研究所』](https://statistics.co.jp/)
+1. E-mail
+	- [会社宛](s.shibata@edixweb.jp)
+	- [個人用](satorushibatad4dr@gmail.com)
