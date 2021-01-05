@@ -2,6 +2,7 @@
 ## 著者
 1. 氏名: [柴田 怜/Satoru Shibata](https://www.facebook.com/profile.php?id=100014771435123)
 1. 職業: Data Scientist
+	- [株式会社EDIX システム部1課](https://www.edixweb.jp/)
 1. 称号: [Kaggle Notebooks Expert](https://www.kaggle.com/satorushibata)
 	- Kaggle Notebooks: 
 		- [銀メダル1個 + 銅メダル5個受賞](https://www.kaggle.com/satorushibata/notebooks)
@@ -134,7 +135,6 @@
 		1. 多変量解析
 		1. パネルデータ分析
 	- 主催: [『統計科学研究所』](https://statistics.co.jp/)
-1. 所属: [株式会社EDIX](https://www.edixweb.jp/)
 1. E-mail
 	- [会社宛](s.shibata@edixweb.jp)
 	- [個人用](satorushibatad4dr@gmail.com)
