@@ -6,7 +6,11 @@
 	- [Kaggle Notebooks: 銀メダル1個 + 銅メダル5個受賞](https://www.kaggle.com/satorushibata/notebooks)
 	- [Kaggle Notebooksの世界ランク: 自己ベスト上位0.467%(153203組中715位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
 	- [Kaggle Discussion: 銅メダル8個受賞](https://www.kaggle.com/satorushibata/discussion)
-1. 所属: [株式会社EDIX](https://www.edixweb.jp/)
+1. 学位: [上智大学大学院修士号(環境学)](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
+	- ESG(Environmental, Social, and, Corporate Governance)投資
+	- 2050年問題
+	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
+	- 気候変動対策
 ### 統計理論
 | 機械学習                    | 統計解析          | 数理最適化         | 探索的データ解析 |
 |:--------------------------:|:------------------:|:-----------------:|:----------------:|
@@ -108,13 +112,6 @@
         - 文献調査
         - 要旨作成
 ## 参考
-1. 学位
-	- [上智大学大学院修士号(環境学)](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
-1. 研究キーワード:
-	- ESG(Environmental, Social, and, Corporate Governance)投資
-	- 2050年問題
-	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
-	- 気候変動対策
 1. 英語
 	- 読解・論述(論文レベル)
 	- 会話([EV](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_1_Electric_Vehicle.pdf)及び[Geothermal Electricity](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_2_Geothermal_Electricity.pdf)に関するプレゼンテーション経験あり。)
@@ -135,6 +132,7 @@
 		1. 多変量解析
 		1. パネルデータ分析
 	- 主催: [『統計科学研究所』](https://statistics.co.jp/)
+1. 所属: [株式会社EDIX](https://www.edixweb.jp/)
 1. E-mail
 	- [会社宛](s.shibata@edixweb.jp)
 	- [個人用](satorushibatad4dr@gmail.com)
