@@ -8,9 +8,9 @@
 	- [Kaggle Discussion: 銅メダル8個受賞](https://www.kaggle.com/satorushibata/discussion)
 1. 学位: [上智大学大学院修士号(環境学)](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	- ESG(Environmental, Social, and, Corporate Governance)投資
-	- 2050年問題
 	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
 	- 気候変動対策
+	- 2050年問題
 ### 統計理論
 | 機械学習                    | 統計解析          | 数理最適化         | 探索的データ解析 |
 |:--------------------------:|:------------------:|:-----------------:|:----------------:|
@@ -21,6 +21,7 @@
 | SVM(Support Vector Machine) | 多変量解析
 | ランダムフォレスト           | 確率(偏)微分方程式
 | Deep Learning
+| LSTM
 | ノンパラメトリック・ベイズ
 | LightGBM
 | XGboost
@@ -34,7 +35,7 @@
 | R       | RStudio          | RedshiftSQL |
 |         |                  | BigQuery    |
 ## 目的:
-### AI開発・発表論文等に用いた各ファイルを保存・公開し、その要旨を説明する。
+### AI開発・発表論文等に用いた各ファイルを保存・公開する。
 1. AI開発
 	- ["LightGBM Classifier & Logistic Regression + Report"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Silver_Medal_LightGBM_Classifier_and_Logistic_Regression_Report.ipynb)
 	- ["Optimized LightGBM with Optuna adding SAKT Model"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
