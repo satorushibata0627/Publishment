@@ -3,7 +3,7 @@
 1. 氏名: [柴田 怜/Satoru Shibata](https://www.facebook.com/profile.php?id=100014771435123)
 1. 職業: Data Scientist
 	- [株式会社EDIX システム部1課](https://www.edixweb.jp/)
-1. 称号: [Kaggle Notebooks Expert](https://www.kaggle.com/satorushibata)
+1. 称号: [Kaggle Notebooks Solo Expert](https://www.kaggle.com/satorushibata)
 	- Kaggle Notebooks: 
 		- [銀メダル1個 + 銅メダル5個受賞](https://www.kaggle.com/satorushibata/notebooks)
 		- [世界ランク(自己ベスト)上位0.467%(153203組中715位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
