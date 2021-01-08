@@ -15,12 +15,12 @@
 | 機械学習                    | 統計解析          | 数理最適化         | 探索的データ解析 |
 |:--------------------------:|:------------------:|:-----------------:|:----------------:|
 | k-means                     | 計量時系列分析     | 線形/非線形計画法 | 相関係数
-| t-SNE                       | 統計モデル         | ゲーム理論        | 要約統計量
+| t-SNE                       | 一般化線形モデル   | ゲーム理論        | 要約統計量
 | 密度準拠クラスタリング       | 統計的因果推定     | ベイズ最適化      | グラフ描画
 | 主成分分析                  | 統計的有意差検定
 | SVM(Support Vector Machine) | 多変量解析
-| ランダムフォレスト           | 確率(偏)微分方程式
-| Deep Learning
+| ランダムフォレスト           | パネルデータ分析
+| Deep Learning               | 確率(偏)微分方程式
 | LSTM
 | ノンパラメトリック・ベイズ
 | LightGBM
@@ -66,9 +66,9 @@
 | [M5 Forecasting - Uncertainty](https://www.kaggle.com/c/m5-forecasting-uncertainty)                              | 26% | 237/912  |
 | [TReNDS Neuroimaging](https://www.kaggle.com/c/trends-assessment-prediction)                                       | 32% | 336/1051 |
 | [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine) | 33% | 532/1636 |
-| [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)            | 銅メダル受賞(Notebooks) |
-| [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction)                      | 銅メダル受賞(Notebooks) |
+| [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction)                      | 銅メダル受賞(Notebooks) + 34% | 1133/3406 |
 | [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction)                            | 銀メダル1個 + 銅メダル3個受賞(Notebooks) |
+| [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)            | 銅メダル受賞(Notebooks) |
 ## 論文要旨
 1. 公益財団法人みずほ学術振興財団第61回懸賞論文【経済の部】「ESG投資について考える」
     - [『エネルギー・気候変動と日本経済における2050年問題に向けた動的マクロ計量モデルに基づくESG投資の利用: 非線形パネルVAR-SPDE-LSTMモデル(精度評価付き)の開発』](https://github.com/satorushibata0627/Publishment/raw/main/%E8%AB%96%E6%96%87%E5%8E%9F%E7%A8%BF_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.pdf)
