@@ -6,7 +6,7 @@
 1. 称号: [Kaggle Notebooks Solo Expert](https://www.kaggle.com/satorushibata)
 	- Kaggle Notebooks: 
 		- [銀メダル1個 + 銅メダル5個受賞](https://www.kaggle.com/satorushibata/notebooks)
-		- [世界ランク(自己ベスト)上位0.467%(153203組中715位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
+		- [世界ランク(自己ベスト)上位0.455%(153824組中700位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
 	- [Kaggle Discussion: 銅メダル8個受賞](https://www.kaggle.com/satorushibata/discussion)
 1. 学位: [上智大学大学院修士号(環境学)](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	- ESG(Environmental, Social, and, Corporate Governance)投資
@@ -46,6 +46,7 @@
 	- ["Optimize LightGBM HyperParameter with Optuna & GPU"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimize_LightGBM_HyperParameter_with_Optuna_and_GPU.ipynb)
 	- ["LightGBM on Lyft Tabular Data Inference with Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
 	- ["LightGBM on GPU with Feature Engineering, Optuna, and , Visualization"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
+		- 提出用: ["Submission & the Inference of LightGBM"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Submission_and_the_Inference_of_LightGBM.ipynb)
 	- ["Market Prediction: XGBoost with GPU Modified"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Market_Prediction_XGBoost_with_GPU_Modified.ipynb)
 	- ["Cassava Leaf Disease: Best Keras CNN Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Cassava_Leaf_Disease_Best_Keras_CNN_Tuning.ipynb)
 	- ["RFCX: Residual Network with TPU Customized"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_RFCX_Residual_Network_with_TPU_Customized.ipynb)
