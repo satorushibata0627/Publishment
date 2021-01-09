@@ -1,8 +1,8 @@
-# 『AI開発と発表論文』
+# 『AI研究開発・発表論文に係る出版物』
 ## 著者
 1. 氏名: [柴田 怜/Satoru Shibata](https://www.facebook.com/profile.php?id=100014771435123)
 1. 職業: Data Scientist
-	- [株式会社EDIX システム部1課](https://www.edixweb.jp/)
+	- 所属: [株式会社EDIX システム部1課](https://www.edixweb.jp/)
 1. 称号: [Kaggle Notebooks Solo Expert](https://www.kaggle.com/satorushibata)
 	- [銀メダル1個 + 銅メダル5個受賞](https://www.kaggle.com/satorushibata/notebooks)
 	- [世界ランク(自己ベスト)上位0.449%(153954組中692位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
@@ -35,8 +35,8 @@
 | R       | RStudio          | RedshiftSQL |
 |         |                  | BigQuery    |
 ## 目的:
-### AI開発・発表論文等に用いた各ファイルを保存・公開する。
-1. AI開発
+### AI研究開発・発表論文等に用いた各ファイルを保存・公開する。
+1. AI研究開発
 	- ["LightGBM Classifier & Logistic Regression + Report"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Silver_Medal_LightGBM_Classifier_and_Logistic_Regression_Report.ipynb)
 	- ["Optimized LightGBM with Optuna adding SAKT Model"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
 	- ["LightGBM with the Inference & Empirical Analysis"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_with_the_Inference_and_Empirical_Analysis.ipynb)
@@ -69,7 +69,7 @@
 | [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction)                      | 銅メダル受賞(Notebooks) + 34% | 1133/3406 |
 | [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction)                            | 銀メダル1個 + 銅メダル3個受賞(Notebooks) |
 | [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)            | 銅メダル受賞(Notebooks) |
-## 論文要旨
+## 発表論文(要旨)
 1. 公益財団法人みずほ学術振興財団第61回懸賞論文【経済の部】「ESG投資について考える」
     - [『エネルギー・気候変動と日本経済における2050年問題に向けた動的マクロ計量モデルに基づくESG投資の利用: 非線形パネルVAR-SPDE-LSTMモデル(精度評価付き)の開発』](https://github.com/satorushibata0627/Publishment/raw/main/%E8%AB%96%E6%96%87%E5%8E%9F%E7%A8%BF_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.pdf)
     - 分析手順
