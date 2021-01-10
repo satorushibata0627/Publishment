@@ -6,13 +6,13 @@
 1. 称号: [Kaggle Notebooks Solo Expert](https://www.kaggle.com/satorushibata)
 	- [銀メダル1個 + 銅メダル5個受賞](https://www.kaggle.com/satorushibata/notebooks)
 	- [世界ランク(自己ベスト)上位0.449%(153954組中692位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
-1. 学位: [上智大学大学院修士号(環境学)](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
+1. 学位: [上智大学大学院修士号(環境学)](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	- ESG(Environmental, Social, and, Corporate Governance)投資
 	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
 	- 気候変動対策
 	- 2050年問題
 1. 資格
-	- [Statistical Data Analyst of The Institute of Statistical Science](https://github.com/satorushibata0627/Publishment/raw/main/20171004_%E8%B3%87%E6%A0%BC%E8%AA%8D%E5%AE%9A%E8%A8%BC_%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%A3%AB2%E7%B4%9A.pdf)
+	- [Statistical Data Analyst of The Institute of Statistical Science](https://github.com/satorushibata0627/Publishment/blob/main/20171004_%E8%B3%87%E6%A0%BC%E8%AA%8D%E5%AE%9A%E8%A8%BC_%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%A3%AB2%E7%B4%9A.pdf)
 	- [RPA Developer Foundation of UiPath Academy](https://github.com/satorushibata0627/Publishment/blob/main/20190410_UiPath_Academy_RPA_Developer_Foundation.pdf)
 ### 統計理論
 | 機械学習                    | 統計解析          | 数理最適化         | 探索的データ解析 |
@@ -126,7 +126,7 @@
 1. 線形単回帰分析の開発演習([R](https://github.com/satorushibata0627/Publishment/blob/main/%E7%B7%9A%E5%BD%A2%E5%8D%98%E5%9B%9E%E5%B8%B0%E5%88%86%E6%9E%90%E3%81%AE%E9%96%8B%E7%99%BA%E6%BC%94%E7%BF%92(R).ipynb)/[Python3](https://github.com/satorushibata0627/Publishment/blob/main/%E7%B7%9A%E5%BD%A2%E5%8D%98%E5%9B%9E%E5%B8%B0%E5%88%86%E6%9E%90%E3%81%AE%E9%96%8B%E7%99%BA%E6%BC%94%E7%BF%92(Python3).ipynb))
 	- 統計理論を説明した後、開発演習の課題を出し、その解答例を併せてアップロードした。
 	- 教育資料である。
-1. [Statistical Data Analyst of The Institute of Statistical Science](https://github.com/satorushibata0627/Publishment/raw/main/20171004_%E8%B3%87%E6%A0%BC%E8%AA%8D%E5%AE%9A%E8%A8%BC_%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%A3%AB2%E7%B4%9A.pdf)
+1. [Statistical Data Analyst of The Institute of Statistical Science](https://github.com/satorushibata0627/Publishment/blob/main/20171004_%E8%B3%87%E6%A0%BC%E8%AA%8D%E5%AE%9A%E8%A8%BC_%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%A3%AB2%E7%B4%9A.pdf)
 	- 統計理論を受講した後、Rによる実装を学んだ。
 	- [学位論文](https://github.com/satorushibata0627/Publishment/raw/main/%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)の作成に際し、統計解析をより学ぶことを目的として受講した。
 	- 対象
