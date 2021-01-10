@@ -123,7 +123,7 @@
 1. 線形単回帰分析の開発演習([R](https://github.com/satorushibata0627/Publishment/blob/main/%E7%B7%9A%E5%BD%A2%E5%8D%98%E5%9B%9E%E5%B8%B0%E5%88%86%E6%9E%90%E3%81%AE%E9%96%8B%E7%99%BA%E6%BC%94%E7%BF%92(R).ipynb)/[Python3](https://github.com/satorushibata0627/Publishment/blob/main/%E7%B7%9A%E5%BD%A2%E5%8D%98%E5%9B%9E%E5%B8%B0%E5%88%86%E6%9E%90%E3%81%AE%E9%96%8B%E7%99%BA%E6%BC%94%E7%BF%92(Python3).ipynb))
 	- 統計理論を説明した後、開発演習の課題を出し、その解答例を併せてアップロードした。
 	- 教育資料である。
-1. [統計データ分析士2級の資格認定証](https://github.com/satorushibata0627/Publishment/raw/main/20171004_%E8%B3%87%E6%A0%BC%E8%AA%8D%E5%AE%9A%E8%A8%BC_%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%A3%AB2%E7%B4%9A.pdf)
+1. [Statistical Data Analyst of The Institute of Statistical Science](https://github.com/satorushibata0627/Publishment/raw/main/20171004_%E8%B3%87%E6%A0%BC%E8%AA%8D%E5%AE%9A%E8%A8%BC_%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%A3%AB2%E7%B4%9A.pdf)
 	- 統計理論を受講した後、Rによる実装を学んだ。
 	- [学位論文](https://github.com/satorushibata0627/Publishment/raw/main/%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)の作成に際し、統計解析をより学ぶことを目的として受講した。
 	- 対象
@@ -132,7 +132,7 @@
 		1. 相関と回帰
 		1. 多変量解析
 		1. パネルデータ分析
-	- 主催: [『統計科学研究所』](https://statistics.co.jp/)
+	- 主催: ["The Institute of Statistical Science"](https://statistics.co.jp/)
 1. E-mail
 	- [会社宛](s.shibata@edixweb.jp)
 	- [個人用](satorushibatad4dr@gmail.com)
