@@ -45,6 +45,7 @@
 	- ["LightGBM with the Inference & Empirical Analysis"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_with_the_Inference_and_Empirical_Analysis.ipynb)
 	- ["Optimized LightGBM with Optuna"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna.ipynb)
 	- ["Optimize LightGBM HyperParameter with Optuna & GPU"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimize_LightGBM_HyperParameter_with_Optuna_and_GPU.ipynb)
+	- ["Optimized Logit LightGBM Classifier & CNN Model"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Logit_LightGBM_Classifier_and_CNN_Model.ipynb)
 	- ["LightGBM on Lyft Tabular Data Inference with Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
 	- ["LightGBM on GPU with Feature Engineering, Optuna, and , Visualization"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
 		- 提出用: ["Submission & the Inference of LightGBM"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Submission_and_the_Inference_of_LightGBM.ipynb)
