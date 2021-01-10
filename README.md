@@ -11,6 +11,9 @@
 	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
 	- 気候変動対策
 	- 2050年問題
+1. 資格
+	- [Statistical Data Analyst of The Institute of Statistical Science](https://github.com/satorushibata0627/Publishment/raw/main/20171004_%E8%B3%87%E6%A0%BC%E8%AA%8D%E5%AE%9A%E8%A8%BC_%E7%B5%B1%E8%A8%88%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%A3%AB2%E7%B4%9A.pdf)
+	- [RPA Developer Foundation of UiPath Academy](https://github.com/satorushibata0627/Publishment/blob/main/20190410_UiPath_Academy_RPA_Developer_Foundation.pdf)
 ### 統計理論
 | 機械学習                    | 統計解析          | 数理最適化         | 探索的データ解析 |
 |:--------------------------:|:------------------:|:-----------------:|:----------------:|
@@ -133,7 +136,7 @@
 		1. 多変量解析
 		1. パネルデータ分析
 	- 主催: ["The Institute of Statistical Science"](https://statistics.co.jp/)
-1. [RPA Developer Foundation of UiPath Academy]
+1. [RPA Developer Foundation of UiPath Academy](https://github.com/satorushibata0627/Publishment/blob/main/20190410_UiPath_Academy_RPA_Developer_Foundation.pdf)
 	- AIの関連技術として、RPA(Robotic Process Automation)を学ぶことを目的とした。
 	- 基礎知識について受講した後、100点満点中70点以上で合格する試験によって取得した。
 1. E-mail
