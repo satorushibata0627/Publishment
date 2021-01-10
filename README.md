@@ -23,7 +23,7 @@
 | 密度準拠クラスタリング       | 統計的因果推定     | ベイズ最適化      | グラフ描画
 | 主成分分析                  | 統計的有意差検定
 | SVM(Support Vector Machine) | 多変量解析
-| ランダムフォレスト           | パネルデータ分析
+| ランダムフォレスト           | (動学的)パネルデータ分析
 | Deep Learning               | 確率(偏)微分方程式
 | LSTM
 | ノンパラメトリック・ベイズ
@@ -48,7 +48,7 @@
 	- ["Optimize LightGBM HyperParameter with Optuna & GPU"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimize_LightGBM_HyperParameter_with_Optuna_and_GPU.ipynb)
 	- ["Optimized Logit LightGBM Classifier & CNN Model"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_Logit_LightGBM_Classifier_and_CNN_Model.ipynb)
 	- ["LightGBM on Lyft Tabular Data Inference with Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LGBM_on_Lyft_Tabular_Data_Inference_Tuning.ipynb)
-	- ["LightGBM on GPU with Feature Engineering, Optuna, and , Visualization"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
+	- ["LightGBM on GPU with Feature Engineering, Optuna, and, Visualization"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_LightGBM_on_GPU_with_Feature_Engineering_Optuna_and_Visualization.ipynb)
 		- 提出用: ["Submission & the Inference of LightGBM"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Submission_and_the_Inference_of_LightGBM.ipynb)
 	- ["Market Prediction: XGBoost with GPU Modified"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Market_Prediction_XGBoost_with_GPU_Modified.ipynb)
 	- ["Cassava Leaf Disease: Best Keras CNN Tuning"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Cassava_Leaf_Disease_Best_Keras_CNN_Tuning.ipynb)
