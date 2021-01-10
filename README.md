@@ -133,7 +133,7 @@
 		1. 多変量解析
 		1. パネルデータ分析
 	- 主催: ["The Institute of Statistical Science"](https://statistics.co.jp/)
-1. RPA Developer Foundation
+1. RPA Developer Foundation of UiPath Academy
 1. E-mail
 	- [会社宛](s.shibata@edixweb.jp)
 	- [個人用](satorushibatad4dr@gmail.com)
