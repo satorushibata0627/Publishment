@@ -12,8 +12,8 @@
 	- 気候変動対策
 	- 2050年問題
 1. 資格
-	- [Statistical Data Analyst of The Institute of Statistical Science](https://github.com/satorushibata0627/Publishment/blob/main/20171004_Statistical_Data_Analyst_of_The%20Institute_of_Statistical%20Science.pdf)
-	- [RPA Developer Foundation of UiPath Academy](https://github.com/satorushibata0627/Publishment/blob/main/20190410_UiPath_Academy_RPA_Developer_Foundation.pdf)
+	- [The Institute of Statistical Science Statistical Data Analyst](https://github.com/satorushibata0627/Publishment/blob/main/20171004_Statistical_Data_Analyst_of_The%20Institute_of_Statistical%20Science.pdf)
+	- [UiPath Academy RPA Developer Foundation](https://github.com/satorushibata0627/Publishment/blob/main/20190410_UiPath_Academy_RPA_Developer_Foundation.pdf)
 ### 統計理論
 | 機械学習                    | 統計解析          | 数理最適化         | 探索的データ解析 |
 |:--------------------------:|:------------------:|:-----------------:|:----------------:|
@@ -116,7 +116,7 @@
         - 文献調査
         - 要旨作成
 ## 参考
-1. [Statistical Data Analyst of The Institute of Statistical Science](https://github.com/satorushibata0627/Publishment/blob/main/20171004_Statistical_Data_Analyst_of_The%20Institute_of_Statistical%20Science.pdf)
+1. [The Institute of Statistical Science Statistical Data Analyst](https://github.com/satorushibata0627/Publishment/blob/main/20171004_Statistical_Data_Analyst_of_The%20Institute_of_Statistical%20Science.pdf)
 	- 統計理論及びそのRによる実装を学んだ。
 	- [学位論文](https://github.com/satorushibata0627/Publishment/raw/main/%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)の作成に際し、統計解析をより学ぶことを目的として受講した。
 	- 対象
@@ -126,7 +126,7 @@
 		1. 多変量解析
 		1. パネルデータ分析
 	- 主催: ["The Institute of Statistical Science"](https://statistics.co.jp/)
-1. [RPA Developer Foundation of UiPath Academy](https://github.com/satorushibata0627/Publishment/blob/main/20190410_UiPath_Academy_RPA_Developer_Foundation.pdf)
+1. [UiPath Academy RPA Developer Foundation](https://github.com/satorushibata0627/Publishment/blob/main/20190410_UiPath_Academy_RPA_Developer_Foundation.pdf)
 	- AIの関連技術として、RPA(Robotic Process Automation)を学ぶことを目的とした。
 	- 基礎知識について受講した後、100点満点中70点以上で合格する試験によって取得した。
 1. 英語
@@ -140,5 +140,5 @@
 	- 統計理論を説明した後、開発演習の課題を出し、その解答例を併せてアップロードした。
 	- 教育資料である。
 1. E-mail
-	- [会社宛](s.shibata@edixweb.jp)
+	- [株式会社EDIX用](s.shibata@edixweb.jp)
 	- [個人用](satorushibatad4dr@gmail.com)
