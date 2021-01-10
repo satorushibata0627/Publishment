@@ -116,16 +116,6 @@
         - 文献調査
         - 要旨作成
 ## 参考
-1. 英語
-	- 読解・論述(論文レベル)
-	- 会話([EV](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_1_Electric_Vehicle.pdf)及び[Geothermal Electricity](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_2_Geothermal_Electricity.pdf)に関するプレゼンテーション経験あり。)
-		- 英語プレゼンテーション資料
-			- 概念を説明した後、その環境影響、対応策及び事業採算性(投資収益性)に関する提案を行った。
-				1. [EV(Electric Vehicle)](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_1_Electric_Vehicle.pdf) / 電気自動車
-				1. [Geothermal Electricity](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_2_Geothermal_Electricity.pdf) / 地熱発電事業
-1. 線形単回帰分析の開発演習([R](https://github.com/satorushibata0627/Publishment/blob/main/%E7%B7%9A%E5%BD%A2%E5%8D%98%E5%9B%9E%E5%B8%B0%E5%88%86%E6%9E%90%E3%81%AE%E9%96%8B%E7%99%BA%E6%BC%94%E7%BF%92(R).ipynb)/[Python3](https://github.com/satorushibata0627/Publishment/blob/main/%E7%B7%9A%E5%BD%A2%E5%8D%98%E5%9B%9E%E5%B8%B0%E5%88%86%E6%9E%90%E3%81%AE%E9%96%8B%E7%99%BA%E6%BC%94%E7%BF%92(Python3).ipynb))
-	- 統計理論を説明した後、開発演習の課題を出し、その解答例を併せてアップロードした。
-	- 教育資料である。
 1. [Statistical Data Analyst of The Institute of Statistical Science](https://github.com/satorushibata0627/Publishment/blob/main/20171004_Statistical_Data_Analyst_of_The%20Institute_of_Statistical%20Science.pdf)
 	- 統計理論及びそのRによる実装を学んだ。
 	- [学位論文](https://github.com/satorushibata0627/Publishment/raw/main/%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)の作成に際し、統計解析をより学ぶことを目的として受講した。
@@ -139,6 +129,16 @@
 1. [RPA Developer Foundation of UiPath Academy](https://github.com/satorushibata0627/Publishment/blob/main/20190410_UiPath_Academy_RPA_Developer_Foundation.pdf)
 	- AIの関連技術として、RPA(Robotic Process Automation)を学ぶことを目的とした。
 	- 基礎知識について受講した後、100点満点中70点以上で合格する試験によって取得した。
+1. 英語
+	- 読解・論述(論文レベル)
+	- 会話([EV](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_1_Electric_Vehicle.pdf)及び[Geothermal Electricity](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_2_Geothermal_Electricity.pdf)に関するプレゼンテーション経験あり。)
+		- 英語プレゼンテーション資料
+			- 概念を説明した後、その環境影響、対応策及び事業採算性(投資収益性)に関する提案を行った。
+				1. [EV(Electric Vehicle)](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_1_Electric_Vehicle.pdf) / 電気自動車
+				1. [Geothermal Electricity](https://github.com/satorushibata0627/Publishment/raw/main/Environment%20_and_Energy_Technology_2_Geothermal_Electricity.pdf) / 地熱発電事業
+1. 線形単回帰分析の開発演習([R](https://github.com/satorushibata0627/Publishment/blob/main/%E7%B7%9A%E5%BD%A2%E5%8D%98%E5%9B%9E%E5%B8%B0%E5%88%86%E6%9E%90%E3%81%AE%E9%96%8B%E7%99%BA%E6%BC%94%E7%BF%92(R).ipynb)/[Python3](https://github.com/satorushibata0627/Publishment/blob/main/%E7%B7%9A%E5%BD%A2%E5%8D%98%E5%9B%9E%E5%B8%B0%E5%88%86%E6%9E%90%E3%81%AE%E9%96%8B%E7%99%BA%E6%BC%94%E7%BF%92(Python3).ipynb))
+	- 統計理論を説明した後、開発演習の課題を出し、その解答例を併せてアップロードした。
+	- 教育資料である。
 1. E-mail
 	- [会社宛](s.shibata@edixweb.jp)
 	- [個人用](satorushibatad4dr@gmail.com)
