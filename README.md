@@ -5,8 +5,8 @@
 	- 所属: [株式会社EDIX システム部1課](https://www.edixweb.jp/)
 1. 称号: [Kaggle Notebooks Solo Expert](https://www.kaggle.com/satorushibata)
 	- [銀メダル1個 + 銅メダル6個受賞](https://www.kaggle.com/satorushibata/notebooks)
-	- [世界ランク(自己ベスト)上位0.439%(153978組中677位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
-	- [Kaggle Discussion 銅メダル9個受賞(2021/1/10現在)](https://www.kaggle.com/satorushibata/discussion)
+	- [世界ランク(自己ベスト)上位0.426%(154109組中656位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
+	- [Kaggle Discussion 銅メダル11個受賞(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
 1. 学位: [上智大学大学院修士号(環境学)/Master degree in Environmental Science at Sophia University Graduate School](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	- ESG(Environmental, Social, and, Corporate Governance)投資
 	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
@@ -75,7 +75,7 @@
 | [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction)                      | 銅メダル受賞(Notebooks) + 34% | 1133/3406 |
 | [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction)                            | 銀メダル1個 + 銅メダル4個受賞(Notebooks) |
 | [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)            | 銅メダル受賞(Notebooks) |
-| [Kaggle Discussion 銅メダル9個受賞(2021/1/10現在)](https://www.kaggle.com/satorushibata/discussion)
+| [Kaggle Discussion 銅メダル11個受賞(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
 ## 発表論文(要旨)
 1. 公益財団法人みずほ学術振興財団第61回懸賞論文【経済の部】「ESG投資について考える」
     - [『エネルギー・気候変動と日本経済における2050年問題に向けた動的マクロ計量モデルに基づくESG投資の利用: 非線形パネルVAR-SPDE-LSTMモデル(精度評価付き)の開発』](https://github.com/satorushibata0627/Publishment/blob/main/%E8%AB%96%E6%96%87%E5%8E%9F%E7%A8%BF_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.pdf)
