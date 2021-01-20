@@ -7,7 +7,7 @@
 	- [銀メダル1個 + 銅メダル6個受賞](https://www.kaggle.com/satorushibata/notebooks)
 	- [世界ランク(自己ベスト)上位0.426%(154109組中656位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
 	- [Kaggle Discussion 銅メダル11個受賞(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
-1. 学位: [上智大学大学院修士号(環境学)/Master degree in Environmental Science at Sophia University Graduate School](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
+1. 学位: [上智大学大学院修士号(環境学)/Master Degree in Environmental Science at Sophia University Graduate School](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	- ESG(Environmental, Social, and, Corporate Governance)投資
 	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
 	- 気候変動対策
@@ -24,7 +24,7 @@
 | 主成分分析                  | 統計的有意差検定
 | SVM(Support Vector Machine) | 多変量解析
 | ランダムフォレスト           | (動学的)パネルデータ分析
-| Deep Learning               | 確率(偏)微分方程式
+| Deep Learning               | ベイズ確率(偏)微分方程式
 | LSTM
 | ノンパラメトリック・ベイズ
 | LightGBM
