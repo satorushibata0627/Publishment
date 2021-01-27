@@ -5,7 +5,7 @@
 	- 所属: [株式会社EDIX システム部1課](https://www.edixweb.jp/)
 1. 称号: [Kaggle Notebooks Solo Expert](https://www.kaggle.com/satorushibata)
 	- [銀メダル1個 + 銅メダル6個受賞](https://www.kaggle.com/satorushibata/notebooks)
-	- [世界ランク(自己ベスト)上位0.417%(155883組中650位)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
+	- [世界ランク(自己ベスト): 643/155914](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
 	- [Kaggle Discussion 銅メダル11個受賞(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
 1. 学位: [上智大学大学院修士号(環境学)/Master Degree in Environmental Science at Sophia University Graduate School](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	- ESG(Environmental, Social, and, Corporate Governance)投資
@@ -62,7 +62,7 @@
 1. [学位証明](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	- 上智大学大学院修士号(環境学)/Master degree in Environmental Science at Sophia University Graduate School
 	- 修了証明
-	- GPA3.74
+	- GPA3.74/4.00
 	- 学位論文の評価: B
 ## [Kaggleの成績表(要旨)](https://www.kaggle.com/satorushibata)
 | Competitions                                              | Top | Teams    |
