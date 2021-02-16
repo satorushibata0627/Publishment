@@ -4,7 +4,7 @@
 1. 職業: Data Scientist
 	- 所属: [株式会社EDIX システム部1課](https://www.edixweb.jp/)
 1. 称号: [Kaggle Notebooks Solo Expert](https://www.kaggle.com/satorushibata)
-	- [銀メダル1個 + 銅メダル6個受賞](https://www.kaggle.com/satorushibata/notebooks)
+	- [銀メダル1個 + 銅メダル7個受賞](https://www.kaggle.com/satorushibata/notebooks)
 	- [世界ランク(自己ベスト): 634/156126(Top 0.4%)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
 	- [Kaggle Discussion 銅メダル11個受賞(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
 1. 学位: [上智大学大学院修士号(環境学)/Master Degree in Environmental Science at Sophia University Graduate School](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
@@ -62,7 +62,7 @@
 1. [学位証明](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	- 上智大学大学院修士号(環境学)/Master degree in Environmental Science at Sophia University Graduate School
 	- 修了証明
-	- GPA3.74/4.00
+	- GPA3.74/4.00(93.5%)
 	- 学位論文の評価: B
 ## [Kaggleの成績表(要旨)](https://www.kaggle.com/satorushibata)
 | Competitions                                              | Top | Teams    |
@@ -73,7 +73,7 @@
 | [TReNDS Neuroimaging](https://www.kaggle.com/c/trends-assessment-prediction)                                       | 32% | 336/1051 |
 | [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine) | 33% | 532/1636 |
 | [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction)                      | 銅メダル受賞(Notebooks) + 34% | 1133/3406 |
-| [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction)                            | 銀メダル1個 + 銅メダル4個受賞(Notebooks) |
+| [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction)                            | 銀メダル1個 + 銅メダル5個受賞(Notebooks) |
 | [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)            | 銅メダル受賞(Notebooks) |
 | [Kaggle Discussion 銅メダル11個受賞(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
 ## 発表論文(要旨)
