@@ -16,7 +16,7 @@
 	- 産業連関分析
 	- LCA(Life Cycle Assessment)
 	- 環境税	
-1. 保有資格等
+1. 資格
 	- [法政大学学士号(経済学) / B.S. in Economics at Hosei University](https://github.com/satorushibata0627/Publishment/blob/main/20150324_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E6%B3%95%E6%94%BF%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%A3%AB%E5%8F%B7(%E7%B5%8C%E6%B8%88%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
 	- [The Institute of Statistical Science Statistical Data Analyst](https://github.com/satorushibata0627/Publishment/blob/main/20171004_Statistical_Data_Analyst_of_The%20Institute_of_Statistical%20Science.pdf)
 	- [UiPath Academy RPA Developer Foundation](https://github.com/satorushibata0627/Publishment/blob/main/20190410_UiPath_Academy_RPA_Developer_Foundation.pdf)
@@ -72,9 +72,9 @@
 | [M5 Forecasting - Uncertainty](https://www.kaggle.com/c/m5-forecasting-uncertainty)                              | 26% | 237/912  |
 | [TReNDS Neuroimaging](https://www.kaggle.com/c/trends-assessment-prediction)                                       | 32% | 336/1051 |
 | [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine) | 33% | 532/1636 |
-| [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction)                      | 銅メダル受賞(Notebooks) + 34% | 1133/3406 |
-| [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction)                            | 銀メダル1個 + 銅メダル5個受賞(Notebooks) |
-| [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)            | 銅メダル受賞(Notebooks) |
+| [Riiid! Answer Correctness Prediction](https://www.kaggle.com/c/riiid-test-answer-prediction)                      | Notebooks Solo 1 Bronze Medal + 34% | 1133/3406 |
+| [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction)                            | Notebooks Solo 1 Silver + 5 Bronze Medals |
+| [Lyft Motion Prediction for Autonomous Vehicles](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)            | Notebooks Solo 1 Bronze Medal |
 | [Kaggle Discussion 銅メダル11個受賞(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
 ## 発表論文(要旨)
 1. 公益財団法人みずほ学術振興財団第61回懸賞論文【経済の部】「ESG投資について考える」
