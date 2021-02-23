@@ -1,13 +1,13 @@
-# 『AI研究開発・発表論文に係る出版物』
+# 『データサイエンスの開発及びその発表論文に係る出版物』
 ## 著者
 1. 氏名: [柴田 怜/Satoru Shibata](https://www.facebook.com/profile.php?id=100014771435123)
 1. 職業: Data Scientist
 	- 所属: [株式会社EDIX システム部1課](https://www.edixweb.jp/)
 1. 称号: [Kaggle Notebooks Solo Expert](https://www.kaggle.com/satorushibata)
 	- [銀メダル1個 + 銅メダル7個受賞](https://www.kaggle.com/satorushibata/notebooks)
-	- [世界ランク(自己ベスト): 634/156126(Top 0.4%)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
+	- [世界ランク(自己ベスト): Top 633/158802(< 0.4%)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
 	- [Kaggle Discussion 銅メダル11個受賞(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
-1. 学位: [上智大学大学院修士号(環境学)/Master Degree in Environmental Science at Sophia University Graduate School](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
+1. 学位: [上智大学大学院修士号(環境学) / M.S. in Global Environmental Studies at Sophia University Graduate School](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	- ESG(Environmental, Social, and, Corporate Governance)投資
 	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
 	- 気候変動対策
