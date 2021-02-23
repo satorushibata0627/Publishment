@@ -1,18 +1,23 @@
 # 『データサイエンスの開発及びその発表論文に係る出版物』
 ## 著者
-1. 氏名: [柴田 怜/Satoru Shibata](https://www.facebook.com/profile.php?id=100014771435123)
-1. 職業: Data Scientist
+1. 氏名: [柴田 怜 / Satoru Shibata](https://www.linkedin.com/in/satoru-shibata-91594218b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuvP4HQrUQcqdw%2FBHOJLrEA%3D%3D)
+1. 職業: Lead Data Scientist
 	- 所属: [株式会社EDIX システム部1課](https://www.edixweb.jp/)
-1. 称号: [Kaggle Notebooks Solo Expert](https://www.kaggle.com/satorushibata)
-	- [銀メダル1個 + 銅メダル7個受賞](https://www.kaggle.com/satorushibata/notebooks)
-	- [世界ランク(自己ベスト): Top 633/158802(< 0.4%)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
-	- [Kaggle Discussion 銅メダル11個受賞(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
-1. 学位: [上智大学大学院修士号(環境学) / M.S. in Global Environmental Studies at Sophia University Graduate School](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
+	- 2021/2/28(日)退職決定
+1. 称号: [Kaggle Notebooks Expert](https://www.kaggle.com/satorushibata)
+	- [Solo 1 Silver + 7 Bronze Medals](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
+	- [世界ランク(自己ベスト): Top 633/158904(< 0.398%)](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
+	- [Kaggle Discussion 11 Bronze Medals(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
+1. 学位: [上智大学大学院修士号(環境学) / M.S. in Global Environmental Studies at Sophia University Graduate School](hhttps://github.com/satorushibata0627/Publishment/blob/main/20170331_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf) + [GPA3.74/4.00(93.5%)](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	- ESG(Environmental, Social, and, Corporate Governance)投資
 	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
 	- 気候変動対策
 	- 2050年問題
-1. 資格
+	- 産業連関分析
+	- LCA(Life Cycle Assessment)
+	- 環境税	
+1. 保有資格等
+	- [法政大学学士号(経済学) / B.S. in Economics at Hosei University](https://github.com/satorushibata0627/Publishment/blob/main/20150324_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E6%B3%95%E6%94%BF%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%A3%AB%E5%8F%B7(%E7%B5%8C%E6%B8%88%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
 	- [The Institute of Statistical Science Statistical Data Analyst](https://github.com/satorushibata0627/Publishment/blob/main/20171004_Statistical_Data_Analyst_of_The%20Institute_of_Statistical%20Science.pdf)
 	- [UiPath Academy RPA Developer Foundation](https://github.com/satorushibata0627/Publishment/blob/main/20190410_UiPath_Academy_RPA_Developer_Foundation.pdf)
 ### 統計理論
@@ -39,9 +44,9 @@
 | Python3 | Jupyter Notebook | MySQL       |
 | R       | RStudio          | RedshiftSQL |
 |         |                  | BigQuery    |
-## 目的:
-### AI研究開発・発表論文等に用いた各ファイルを保存・公開する。
-1. AI研究開発
+|         |                  | SQLite      |
+## 目的: 各ファイルを保存・公開する。
+1. デーータサイエンスの開発
 	- ["LightGBM Classifier & Logistic Regression + Report"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Silver_Medal_LightGBM_Classifier_and_Logistic_Regression_Report.ipynb)
 	- ["Optimized LightGBM with Optuna adding SAKT Model"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
 	- ["LightGBM with the Inference & Empirical Analysis"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_with_the_Inference_and_Empirical_Analysis.ipynb)
@@ -59,12 +64,7 @@
 1. 発表論文
 	- [『エネルギー・気候変動と日本経済における2050年問題に向けた動的マクロ計量モデルに基づくESG投資の利用: 非線形パネルVAR-SPDE-LSTMモデル(精度評価付き)の開発』](https://github.com/satorushibata0627/Publishment/raw/main/%E8%AB%96%E6%96%87%E5%8E%9F%E7%A8%BF_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.pdf)
 	- [『エネルギー改革策が及ぼした環境・経済・社会的影響: 日独英仏国の実証分析と国際比較』](https://github.com/satorushibata0627/Publishment/raw/main/%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)	
-1. [学位証明](https://github.com/satorushibata0627/Publishment/raw/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
-	- 上智大学大学院修士号(環境学)/Master degree in Environmental Science at Sophia University Graduate School
-	- 修了証明
-	- GPA3.74/4.00(93.5%)
-	- 学位論文の評価: B
-## [Kaggleの成績表(要旨)](https://www.kaggle.com/satorushibata)
+## [Kaggleの成績表(詳細)](https://www.kaggle.com/satorushibata)
 | Competitions                                              | Top | Teams    |
 |:---------------------------------------------------------:|:---:|:--------:|
 | [Predicting Molecular Properties](https://www.kaggle.com/c/champs-scalar-coupling)                           | 21% | 553/2749 |
@@ -114,7 +114,8 @@
          - 対数線形重回帰分析
          - 主成分分析
          - 分散分析
-         - 微積分法
+         - 偏微分
+         - 重積分
          - グラフ描画
     - 英語
         - 文献調査
@@ -143,6 +144,4 @@
 1. 線形単回帰分析の開発演習([R](https://github.com/satorushibata0627/Publishment/blob/main/%E7%B7%9A%E5%BD%A2%E5%8D%98%E5%9B%9E%E5%B8%B0%E5%88%86%E6%9E%90%E3%81%AE%E9%96%8B%E7%99%BA%E6%BC%94%E7%BF%92(R).ipynb)/[Python3](https://github.com/satorushibata0627/Publishment/blob/main/%E7%B7%9A%E5%BD%A2%E5%8D%98%E5%9B%9E%E5%B8%B0%E5%88%86%E6%9E%90%E3%81%AE%E9%96%8B%E7%99%BA%E6%BC%94%E7%BF%92(Python3).ipynb))
 	- 統計理論を説明した後、開発演習の課題を出し、その解答例を併せてアップロードした。
 	- 教育資料である。
-1. E-mail
-	- [株式会社EDIX用](s.shibata@edixweb.jp)
-	- [個人用](satorushibatad4dr@gmail.com)
+1. Email: satorushibatad4dr@gmail.com
