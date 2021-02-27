@@ -5,9 +5,7 @@
 1. 称号: [Kaggle Notebooks Expert](https://www.kaggle.com/satorushibata):
 	- [世界ランク最高位: Top < 0.398% ∵ 633/158904](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
 	- [Solo 1 Silver + 7 Bronze Medals](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
-	- [Kaggle Discussion 11 Bronze Medals(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
-1. 学位: [上智大学大学院修士号(環境学) / M.A. in GENV(Master of Arts in Global Environmental Studies at Sophia University Graduate School)](https://github.com/satorushibata0627/Publishment/blob/main/20170331_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
- 	- [GPA3.74/4.00(93.5%)](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf):
+1. 学位: [上智大学大学院修士号(環境学) / M.A. in GENV](https://github.com/satorushibata0627/Publishment/blob/main/20170331_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf): [GPA3.74/4.00(93.5%)](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
 	- ESG(Environmental, Social, and, Corporate Governance)投資
 	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
 	- 気候変動対策
@@ -17,6 +15,7 @@
 	- 環境税	
 1. 資格
 	- [法政大学学士号(経済学) / B.E.(Bachelor Degree in Economics) at Hosei University](https://github.com/satorushibata0627/Publishment/blob/main/20150324_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E6%B3%95%E6%94%BF%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%A3%AB%E5%8F%B7(%E7%B5%8C%E6%B8%88%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
+	- [Kaggle Discussion 11 Bronze Medals(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
 	- [統計科学研究所統計データ分析士2級 / The Institute of Statistical Science Statistical Data Analyst](https://github.com/satorushibata0627/Publishment/blob/main/20171004_Statistical_Data_Analyst_of_The%20Institute_of_Statistical%20Science.pdf)
 	- [UiPath Academy RPA Developer Foundation](https://github.com/satorushibata0627/Publishment/blob/main/20190410_UiPath_Academy_RPA_Developer_Foundation.pdf)
 ### 統計理論
@@ -45,7 +44,7 @@
 |         |                  | BigQuery    |
 |         |                  | SQLite      |
 ## 目的: 各ファイルを保存・公開する。
-1. デーータサイエンスの開発
+1. データサイエンスの開発
 	- ["LightGBM Classifier & Logistic Regression + Report"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Silver_Medal_LightGBM_Classifier_and_Logistic_Regression_Report.ipynb)
 	- ["Optimized LightGBM with Optuna adding SAKT Model"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_Optimized_LightGBM_with_Optuna_adding_SAKT_Model.ipynb)
 	- ["LightGBM with the Inference & Empirical Analysis"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_Bronze_Medal_LightGBM_with_the_Inference_and_Empirical_Analysis.ipynb)
@@ -60,10 +59,10 @@
 	- ["RFCX: Residual Network with TPU Customized"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_RFCX_Residual_Network_with_TPU_Customized.ipynb)
 	- ["COVID-19 with H2OAutoML[Baseline]"](https://github.com/satorushibata0627/Publishment/blob/main/Kaggle_Python3_COVID-19_with_H2OAutoML_Baseline.ipynb)
 	- [『H2OAutoMLによる自動最適化モデル』](https://github.com/satorushibata0627/Publishment/blob/main/20200831_Python3_SIGNATE_%E7%AC%AC1%E5%9B%9E_Beginner%E9%99%90%E5%AE%9A%E3%82%B3%E3%83%B3%E3%83%9A_%E9%8A%80%E8%A1%8C%E3%81%AE%E9%A1%A7%E5%AE%A2%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0_H2OAutoML%E3%81%AB%E3%82%88%E3%82%8B%E8%87%AA%E5%8B%95%E6%9C%80%E9%81%A9%E5%8C%96%E3%83%A2%E3%83%87%E3%83%AB.ipynb)
-1. 発表論文
+1. [発表論文](https://github.com/satorushibata0627/Published_Papers)
 	- [『エネルギー・気候変動と日本経済における2050年問題に向けた動的マクロ計量モデルに基づくESG投資の利用: 非線形パネルVAR-SPDE-LSTMモデル(精度評価付き)の開発』](https://github.com/satorushibata0627/Publishment/raw/main/%E8%AB%96%E6%96%87%E5%8E%9F%E7%A8%BF_%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA%E3%81%BF%E3%81%9A%E3%81%BB%E5%AD%A6%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3%E7%AC%AC61%E5%9B%9E%E6%87%B8%E8%B3%9E%E8%AB%96%E6%96%87_%E7%B5%8C%E6%B8%88%E3%81%AE%E9%83%A8_ESG%E6%8A%95%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E3%82%8B.pdf)
 	- [『エネルギー改革策が及ぼした環境・経済・社会的影響: 日独英仏国の実証分析と国際比較』](https://github.com/satorushibata0627/Publishment/raw/main/%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)	
-## [Kaggleの成績表(詳細)](https://www.kaggle.com/satorushibata)
+## [Kaggleにおける詳細成績表](https://www.kaggle.com/satorushibata)
 | Competitions                                              | Top | Teams    |
 |:---------------------------------------------------------:|:---:|:--------:|
 | [Predicting Molecular Properties](https://www.kaggle.com/c/champs-scalar-coupling)                           | 21% | 553/2749 |
