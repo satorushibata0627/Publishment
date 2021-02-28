@@ -1,7 +1,7 @@
 # 『データサイエンスの開発及びその発表論文に係る出版物』
 ## 著者
 1. 氏名: [柴田 怜 / Satoru Shibata](https://www.linkedin.com/in/satoru-shibata-91594218b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuvP4HQrUQcqdw%2FBHOJLrEA%3D%3D)
-1. 職業: Data Scientist(転職中)
+1. 職業: Econometric Data Scientist(転職中)
 1. 称号: [Kaggle Notebooks Expert](https://www.kaggle.com/satorushibata):
 	- [世界ランク最高位: Top < 0.398% ∵ 633/158904](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
 	- [Solo 1 Silver + 7 Bronze Medals](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
@@ -18,6 +18,16 @@
 	- [Kaggle Discussion 11 Bronze Medals(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
 	- [統計科学研究所統計データ分析士2級 / The Institute of Statistical Science Statistical Data Analyst](https://github.com/satorushibata0627/Publishment/blob/main/20171004_Statistical_Data_Analyst_of_The%20Institute_of_Statistical%20Science.pdf)
 	- [UiPath Academy RPA Developer Foundation](https://github.com/satorushibata0627/Publishment/blob/main/20190410_UiPath_Academy_RPA_Developer_Foundation.pdf)
+1. 趣味: Professional Strongman:
+	- Raw Total 1250kg(2756lbs) approved the Professional Strongman Rules =
+		- Deadlift 400kg(881lbs) with straps, a belt and no suit +
+		- Squat Lift 350kg(771lbs)  without suit and kneewraps but a belt and kneesleeves +
+		- 45°Decline Bench Press 300kg(661lbs)  with Smith Machine and no Equipment +
+		- Hang Power Clean 200kg(441lbs) with straps and no belt
+	- HIIT(High Intensity Interval Training) is over 10 Sets  for per session:
+		- 30° Hill sprints;
+		- Swimming;
+		- Burpee Madness, etc.
 ### 統計理論
 | 機械学習                    | 統計解析          | 数理最適化         | 探索的データ解析 |
 |:--------------------------:|:------------------:|:-----------------:|:----------------:|
