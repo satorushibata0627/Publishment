@@ -1,25 +1,30 @@
 # 『データサイエンスの開発及びその発表論文に係る出版物』
 ## 著者
 1. 氏名: [柴田 怜 / Satoru Shibata](https://www.linkedin.com/in/satoru-shibata-91594218b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuvP4HQrUQcqdw%2FBHOJLrEA%3D%3D)
-1. 職業: Econometric Data Scientist(転職中)
-1. 称号: [Kaggle Notebooks Expert](https://www.kaggle.com/satorushibata):
-	- [世界ランク最高位: Top < 0.398% ∵ 633/158904](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
-	- [Solo 1 Silver + 7 Bronze Medals](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
-1. 学位: [上智大学大学院修士号(環境学) / M.A. in GENV](https://github.com/satorushibata0627/Publishment/blob/main/20170331_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf): [GPA3.74/4.00(93.5%)](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
-	- ESG(Environmental, Social, and, Corporate Governance)投資
-	- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
-	- 気候変動対策
-	- 2050年問題
-	- 産業連関分析
-	- LCA(Life Cycle Assessment)
-	- 環境税	
-1. [発表論文集](https://github.com/satorushibata0627/Published_Papers/archive/main.zip)
-1. 資格
-	- [法政大学学士号(経済学) / B.E.(Bachelor in Economics) at Hosei University](https://github.com/satorushibata0627/Publishment/blob/main/20150324_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E6%B3%95%E6%94%BF%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%A3%AB%E5%8F%B7(%E7%B5%8C%E6%B8%88%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
-	- [Kaggle Discussion 11 Bronze Medals(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
+1. 所属: 転職中
+2. 部署: 自社開発
+3. 職業: Data Scientist
+4. 称号: [Kaggle Expert](https://www.kaggle.com/satorushibata):
+	- [Code:](https://www.kaggle.com/satorushibata/code?userId=2505383&sortBy=voteCount&tab=profile)
+		- [世界ランク最高位: Top < 0.398% ∵ 633/158904](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
+		- [受賞: Solo 1 Silver + 7 Bronze Medals](https://www.kaggle.com/satorushibata/notebooks?userId=2505383&sortBy=voteCount&tab=profile)
+	- [Discussion 11 Bronze Medals(2021/1/11現在)](https://www.kaggle.com/satorushibata/discussion)
+5. 学位: 
+	- [上智大学大学院修士号(環境学) / Master of Arts in Environmental Studies at Sophia University Graduate School](https://github.com/satorushibata0627/Publishment/blob/main/20170331_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
+		- [Total GPA 3.74/4.00(93.5%)](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
+		- ESG(Environmental, Social, and, Corporate Governance)投資
+		- 3E+S+M(Energy Security, Economic Efficiency, Environment, Safety, and, Macro Impact)
+		- 気候変動対策
+		- 2050年問題
+		- 産業連関分析
+		- LCA(Life Cycle Assessment)
+		- 環境税	
+	- [法政大学学士号(経済学) / Bachelor in Economics at Hosei University](https://github.com/satorushibata0627/Publishment/blob/main/20150324_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E6%B3%95%E6%94%BF%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%A3%AB%E5%8F%B7(%E7%B5%8C%E6%B8%88%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
+6. [発表論文集](https://github.com/satorushibata0627/Published_Papers/archive/main.zip)
+7. 資格
 	- [統計科学研究所統計データ分析士2級 / The Institute of Statistical Science Statistical Data Analyst](https://github.com/satorushibata0627/Publishment/blob/main/20171004_Statistical_Data_Analyst_of_The%20Institute_of_Statistical%20Science.pdf)
 	- [UiPath Academy RPA Developer Foundation](https://github.com/satorushibata0627/Publishment/blob/main/20190410_UiPath_Academy_RPA_Developer_Foundation.pdf)
-1. 趣味: Professional Strongman:
+8. 趣味: Professional Strongman:
 	- Raw Total 1250kg(2756lbs) approved the Professional Strongman Rules =
 		- Deadlift 400kg(881lbs) with straps, a belt and no suit +
 		- Squat Lift 350kg(771lbs)  without suit and kneewraps but a belt and kneesleeves +
@@ -130,9 +135,9 @@
         - 文献調査
         - 要旨作成
 ## 参考
-1. [The Institute of Statistical Science Statistical Data Analyst](https://github.com/satorushibata0627/Publishment/blob/main/20171004_Statistical_Data_Analyst_of_The%20Institute_of_Statistical%20Science.pdf)
+1. [統計科学研究所統計データ分析士2級 / The Institute of Statistical Science Statistical Data Analyst](https://github.com/satorushibata0627/Publishment/blob/main/20171004_Statistical_Data_Analyst_of_The%20Institute_of_Statistical%20Science.pdf)
 	- 統計理論及びそのRによる実装を学んだ。
-	- [学位論文](https://github.com/satorushibata0627/Publishment/blob/main/%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)の作成に際し、統計解析をより学ぶことを目的として受講した。
+	- [修士論文](https://github.com/satorushibata0627/Publishment/blob/main/%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)の作成に際し、統計解析をより学ぶことを目的として受講した。
 	- 対象
 		1. 数学(確率・統計)
 		1. 統計的有意差検定
